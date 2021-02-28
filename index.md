@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to the world of Social Data Science
 
-You can use the [editor on GitHub](https://github.com/JanThoma/Social-Data-Science/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my personal blog and repository that addresses the combination of Data Science and Social Sciences, such as Economics and International Relations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+I pursue having a positive and meaningful impact in the world with my work, knowledge and personality. Hence, I see it as my mission to ensure constant improvement to be well-prepared for complicated challenges in the world of digital consultancy. My aspiration includes perfecting the combination of thematic knowledge from social sciences, especially international relations and economics, with technical skills of the data science field, such as machine learning and artificial intelligence, to facilitate innovation and to provide better consultancy in politics and business related topics. Currently, I aim at helping to defeat digital risk for organisations with Constella Intelligence, further deepening my technical skills by graduating successfully from IE Business School, and supporting the NGO AEGEE-Madrid during its digital transformation process.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+During my free time you will see me running around on tennis courts, practising my music instruments, trying out new bread loaf baking recipes or making handcrafted wine.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### My objetives with this webpage
+1. Sharing knowledge and code on the topic
+2. Having fun and trying out things that may be helpful for others
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**There is still more to come!**
+Until then find feel free to reach out for me on LinkedIn: [Link](www.linkedin.com/in/jan-thoma)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JanThoma/Social-Data-Science/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-JPT
