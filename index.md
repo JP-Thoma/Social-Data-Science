@@ -13,7 +13,7 @@ During my free time you will see me running around on tennis courts, practising 
 2. Having fun and trying out things that may be helpful for others
 ```
 
-**There is still more to come**
+**There is still more to come!**
 Until then find feel free to reach out for me on LinkedIn: [Link](www.linkedin.com/in/jan-thoma)
 
 -JPT
