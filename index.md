@@ -11,9 +11,9 @@ During my free time you will see me running around on tennis courts, practising 
 ### My objetives with this webpage
 1. Sharing knowledge and code on the topic
 2. Having fun and trying out things that may be helpful for others
+```
 
 **There is still more to come**
 Until then find feel free to reach out for me on LinkedIn: [Link](www.linkedin.com/in/jan-thoma)
-```
 
 -JPT
