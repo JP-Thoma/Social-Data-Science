@@ -17,3 +17,8 @@ During my free time you will see me running around on tennis courts, practising 
 Until then find feel free to reach out for me on LinkedIn: [Link](www.linkedin.com/in/jan-thoma)
 
 -JPT
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jan-thoma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/jan-thoma?trk=profile-badge">Jan P. T.</a></div>
+              
